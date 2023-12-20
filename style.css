@@ -73,6 +73,26 @@ body {
   padding: 20px;
 }
 
+#left-content #filters {
+  margin-bottom: 20px;
+}
+
+#left-content #filters label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#left-content #filters select {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+#left-content #filters h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
 #left-content ul {
   list-style: none;
   padding: 0;
